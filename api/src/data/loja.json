@@ -1,0 +1,70 @@
+[{
+    "Loja": {
+      "_id": "1",
+      "nome": "Delícias Regionais",
+      "logo": "logo_delicias_regionais.png"
+    },
+    "Produtos": [
+      {
+        "loja_id": "1",
+        "nome": "Sanduíche Natural",
+        "capa": "sanduiche_natural.png",
+        "preco": "R$ 5,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Coxinha",
+        "capa": "coxinha.png",
+        "preco": "R$ 3,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Pastel de Vento",
+        "capa": "pastel_de_vento.png",
+        "preco": "R$ 2,50"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Copo de Coxinhas",
+        "capa": "copo_de_coxinhas.png",
+        "preco": "R$ 8,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Bolo de Rolo",
+        "capa": "bolo_de_rolo.png",
+        "preco": "R$ 15,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Mousse de Maracujá",
+        "capa": "mousse_de_maracuja.png",
+        "preco": "R$ 4,50"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Suco Natural",
+        "capa": "suco_natural.png",
+        "preco": "R$ 5,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Água Mineral",
+        "capa": "agua_mineral.png",
+        "preco": "R$ 2,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Refrigerante Lata",
+        "capa": "refrigerante_lata.png",
+        "preco": "R$ 5,00"
+      },
+      {
+        "loja_id": "1",
+        "nome": "Refrigerante Garrafa 200ml",
+        "capa": "refrigerante_garrafa_200ml.png",
+        "preco": "R$ 2,50"
+      }
+    ]
+  }]
+  
